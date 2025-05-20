@@ -13,3 +13,5 @@ Analista de Soporte | Ingeniero en Ciencias de la Computación
 ## Habilidades
 - Python
 - C++
+- Javascript
+- Base de datos SQL
