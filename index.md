@@ -6,9 +6,9 @@ Analista de Soporte | N1
 - Conductor Profesional - Sindicato de Choferes Profesionales de Pichincha
 
 ## Experiencia
-- Subdireccion de Seguridad informatica (IESS)
-- Banco Internacional(Akros)
-- Colour Republic(Akros)
+- Subdireccion de Seguridad informatica (IESS) 6 meses
+- Banco Internacional (Akros) 3 meses
+- Colour Republic (Akros) 9 meses
 
 ## Habilidades
 - Python
