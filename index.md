@@ -1,5 +1,5 @@
 # Darwin Nicolas Cruz Escobar
-Analista de Soporte | N1
+Analista de Soporte | Ingeniero en Ciencias de la Computación
 
 ## Educación
 - Ingeniería en Sistemas - Universidad Politecnica Salesiana
