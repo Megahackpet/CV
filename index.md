@@ -7,9 +7,9 @@ Analista de Soporte | Ingeniero en Ciencias de la Computación
 - Bachiller Tecnico en Informatica - Colegio Nacional Cumbaya
 
 ## Experiencia
-- Subdireccion de Seguridad informatica (IESS) 6 meses
-- Banco Internacional (Akros) 3 meses
-- Colour Republic (Akros) 9 meses
+- Subdireccion de Seguridad informatica (IESS)
+- Banco Internacional (Akros) 
+- Colour Republic (Akros)
 
 ## Habilidades
 - Python
