@@ -1,11 +1,15 @@
 # Darwin Nicolas Cruz Escobar
-Analista de Soporte | Python, Node.js
+Analista de Soporte | N1
 
 ## Educación
 - Ingeniería en Sistemas - Universidad Politecnica Salesiana
+- Conductor Profesional - Sindicato de Choferes Profesionales de Pichincha
 
 ## Experiencia
-- Empresa ABC (2022 - presente): Desarrollo de APIs REST.
+- Subdireccion de Seguridad informatica (IESS)
+- Banco Internacional(Akros)
+- Colour Republic(Akros)
 
 ## Habilidades
-- Python, Git, Docker
+- Python
+- C++
